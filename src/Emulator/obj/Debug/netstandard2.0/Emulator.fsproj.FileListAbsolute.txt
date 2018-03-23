@@ -1,0 +1,6 @@
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/bin/Debug/netstandard2.0/Emulator.deps.json
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/bin/Debug/netstandard2.0/Emulator.dll
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/bin/Debug/netstandard2.0/Emulator.pdb
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/obj/Debug/netstandard2.0/Emulator.fsprojResolveAssemblyReference.cache
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/obj/Debug/netstandard2.0/Emulator.dll
+/Users/clivewongtohsoon/Projects/Emulator/Emulator/obj/Debug/netstandard2.0/Emulator.pdb

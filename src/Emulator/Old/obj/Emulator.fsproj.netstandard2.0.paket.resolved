@@ -1,0 +1,7 @@
+System.Security.Cryptography.ProtectedData,4.4,Transitive,Main,false
+System.Configuration.ConfigurationManager,4.4.1,Transitive,Main,false
+Argu,5.0.1,Transitive,Main,false
+System.Diagnostics.FileVersionInfo,4.3,Transitive,Main,false
+System.Security.Cryptography.Csp,4.3,Transitive,Main,false
+Mono.Cecil,0.10.0-beta7,Transitive,Main,false
+Expecto,5.1.2,Direct,Main,false
